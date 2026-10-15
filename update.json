@@ -1,5 +1,5 @@
 {
   "version": "13.5.3.1",
-  "notes": "本次更新内容：\n\n1. 优化汇率刷新速度，缩短响应时间。\n\n2. 调整刷新时间间隔，降低网络流量消耗。\n\n3. 修复部分设备闪退与异常问题。\n\n4. 优化界面流畅度，提升操作体验。\n\n5. 优化网络请求逻辑，降低失败率。\n\n官方邮箱：kalinatorg@outlook.com\n开发者：Kalina R&D Center\n版权归属：© 2026 ООО «Калина Торг». All rights reserved.",
+  "notes": "本次更新内容：\n\n1. 优化汇率刷新速度，缩短响应时间。\n\n2. 调整刷新时间间隔，降低网络流量消耗。\n\n3. 修复部分设备闪退与异常问题。\n\n4. 优化界面流畅度，提升操作体验。\n\n5. 优化网络请求逻辑，降低失败率。\n\n官方邮箱：kalinardcenter@outlook.com\n开发者：Kalina R&D Center\n版权归属：© 2026 ООО «Калина Торг». All rights reserved.",
   "url": "https://github.com/freegull700-jpg/kalina-rd-center-app-update-check-official/releases"
 }
