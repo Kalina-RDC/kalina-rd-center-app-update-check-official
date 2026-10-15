@@ -1,5 +1,5 @@
 {
-  "version": "13.5.3.2",
-  "notes": "本次更新内容：\n\n1. 优化汇率刷新速度，缩短响应时间。\n\n2. 调整刷新时间间隔，降低网络流量消耗。\n\n3. 修复部分设备闪退与异常问题。\n\n4. 优化界面流畅度，提升操作体验。\n\n5. 优化网络请求逻辑，降低失败率。\n\n官方邮箱：kalinardcenter@outlook.com\n开发者：Kalina R&D Center\n版权归属：© 2026 ООО «Калина Торг». All rights reserved.",
+  "version": "13.5.3.5",
+  "notes": "版本 v13.5.3.2 | 发布日期：2026-10-16\n\n【系统更新】\n1. 重构在线更新检测机制，新增断点重试。\n2. 完善多语言模块，中、英、俄三语动态加载。\n\n【性能优化】\n3. 优化汇率数据接口，降低网络请求失败率。\n\n【问题修复】\n4. 修复部分设备闪退与语言切换后文字未刷新的问题。\n\n【安全与合规】\n5. 全程 HTTPS + TLS 1.3 加密，严格零日志政策，不收集任何用户信息。\n\n【开发与运营】\nKalina R&D Center（卡莉娜研发中心）\n所属公司：ООО «Калина Торг»\n公司地址：新西兰 · 奥克兰市 阿尔伯特街 A座\n官方邮箱：kalinardcenter@outlook.com",
   "url": "https://github.com/freegull700-jpg/kalina-rd-center-app-update-check-official/releases"
 }
