@@ -1,5 +1,5 @@
 {
   "version": "13.5.6.7",
-  "notes": "本次更新：修复 bug，优化性能。",
+  "notes": "· 优化汇率刷新速度，缩短响应时间\n· 修复部分设备上的崩溃问题\n· 改进界面显示，提升流畅度\n· 更新汇率数据接口，提高稳定性\n· 修复若干已知问题",
   "url": "https://github.com/freegull700-jpg/kalina-rd-center-app-update-check-official/releases"
 }
