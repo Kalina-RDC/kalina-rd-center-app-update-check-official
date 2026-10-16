@@ -1,5 +1,5 @@
 {
-  "version": "13.5.3.2",
+  "version": "13.5.3.1",
   "notes": "版本 v13.5.3.2 | 发布日期：2026-10-16\n\n【系统更新】\n1. 重构在线更新检测机制，新增断点重试。\n2. 完善多语言模块，中、英、俄三语动态加载。\n\n【性能优化】\n3. 优化汇率数据接口，降低网络请求失败率。\n\n【问题修复】\n4. 修复部分设备闪退与语言切换后文字未刷新的问题。\n\n【开发与运营】\nKalina R&D Center（卡莉娜研发中心）\n\n公司地址：新西兰 · 奥克兰市 阿尔伯特街 A座\n官方邮箱：kalinardcenter@outlook.com",
   "url": "https://github.com/freegull700-jpg/kalina-rd-center-app-update-check-official/releases"
 }
